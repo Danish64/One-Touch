@@ -3,10 +3,12 @@ import styles from './Heroarea.module.css';
 
 const HeroArea = () => {
     return (
-        <div>
-            <p>Hero Area</p>
+        <div className={styles.HeroArea}>
+           <p style={{fontFamily:'Roboto'}}> </p>
         </div>
-    );
+        
+    )
+    
 };
 
 export default HeroArea;

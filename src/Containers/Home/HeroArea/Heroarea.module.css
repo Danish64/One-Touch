@@ -1,0 +1,11 @@
+.HeroArea{
+    margin-top: 108px;
+    height: 300px;
+    width: 100%;
+    border: 2px solid #00688b;
+    box-shadow: 0 2px 3px #e9ebee;
+    padding: 10px;
+    box-sizing: border-box;
+    background-color: #e9ebee;
+    font-size: large;
+}
